@@ -145,11 +145,11 @@ Refresh your project’s GitHub page, your code should be available!
 
 ### Define your entities with the JDL Studio
 
-Model your entities with the [JDL Studio](http://jhipster.tech/jdl-studio/) and refer to the following pages:
+Model your entities with the [JDL Studio](http://www.jhipster.tech/jdl-studio/) and refer to the following pages:
 
-- [JDL (JHipster Domain Language) documentation](https://jhipster.tech/jdl/)
-- [JHipster entity documentation](https://jhipster.tech/creating-an-entity/)
-- [JHipster relationship documentation](https://jhipster.tech/managing-relationships/)
+- [JDL (JHipster Domain Language) documentation](https://www.jhipster.tech/jdl/)
+- [JHipster entity documentation](https://www.jhipster.tech/creating-an-entity/)
+- [JHipster relationship documentation](https://www.jhipster.tech/managing-relationships/)
 
 Then export the file (jhipster.jdl) and add it to your project.
 
